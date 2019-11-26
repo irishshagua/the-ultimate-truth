@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Pawel is an awful Muppet!!!"
+echo "Brian is an awful Muppet!!!"
